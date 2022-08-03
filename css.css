@@ -12,3 +12,13 @@
 .aboutdiv{
     background-color: rgb(98, 165, 143);
 }
+.bachumenu{
+    margin-right: 5px;
+}
+.anhprofile {
+    border-radius:70%;
+    width: 140px;
+    height: 100px;
+    object-fit: fill;
+    
+}
